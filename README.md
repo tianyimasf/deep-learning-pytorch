@@ -9,4 +9,6 @@ My annoated notebook as I go through the deep learning pytorch and practical dee
 ## Content Map
 
 - practical-deep-learning-for-coders:
-    - 19_learner_tianyimasf.ipynb: the 19 chapter of practical deep learning for coders that build a cnn and learner class from pure python and tensor. 
+    - 19_learner_tianyimasf.ipynb: the 19 chapter of practical deep learning for coders that build a cnn and learner class from pure python and tensor.
+- p1ch4:
+    - Notebooks that load and manipulate image, volumetric, tabular, time series, text, video and audio data.
